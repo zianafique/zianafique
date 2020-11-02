@@ -3,7 +3,7 @@
 I'm a Student, Good Learner and above all Curious about the Unknown!!!!
 
 - 🎓 I'm currently pursuing **Bachelors in Computer Science** (Final Year) from **International Islamic University Malaysia, IIUM**.
-- 🌱 I'm currently learning from [Coursera](https://www.coursera.org/),[Kaggle](https://www.kaggle.com/) and [Uemy](https://www.udemy.com/)
+- 🌱 I'm currently learning from [Coursera](https://www.coursera.org/),[Kaggle](https://www.kaggle.com/) and [Udemy](https://www.udemy.com/)
 - 💻 I'm looking for an **internship** in **Data Science**, **Data Analytics**, **Data Engineer**, **Computer Science** and **Mobile App Development** domain.
 - 🖋️ I'm actively **writing blogs** on [Inblog](https://inblog.in/@afiquezian)
 - 🤝🏻 I'm open for collaborations in **Data Science** and **Machine Learning** and **Mobile APP Development** Domains.
