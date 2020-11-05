@@ -1,5 +1,5 @@
 ### Hi there, I'm Zian Md Afique Amin👋
-<img align='right' src="https://s7.gifyu.com/images/WhatsApp-Image-2020-07-14-at-11.34.49-1.gif" width="210">
+<img align='right' src="https://w7.pngwing.com/pngs/450/656/png-transparent-programmer-computer-icons-ninja-saga-computer-software-ninja-computer-sticker-cartoon.png" width="300">
 I'm a Student, Good Learner and above all Curious about the Unknown!!!!
 
 - 🎓 I'm currently pursuing **Bachelors in Computer Science** (Final Year) from **International Islamic University Malaysia, IIUM**.
