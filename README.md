@@ -1,6 +1,10 @@
 ### Hi there, I'm Zian Md Afique Amin👋
 <img align='right' src="https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX27635977.jpg" width="250">
-I'm a Student <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> Good Learner and above all Curious about the Unknown!!!!
+<p>
+  <em>
+    A <b>student</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>Learner</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Bangladesh. 
+  </em>
+ </p>
 
 - 🎓 I'm currently pursuing **Bachelors in Computer Science** (Final Year) from **International Islamic University Malaysia, IIUM**.
 - 🌱 I'm currently learning from [Coursera](https://www.coursera.org/),[Kaggle](https://www.kaggle.com/) and [Udemy](https://www.udemy.com/)
