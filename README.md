@@ -19,10 +19,6 @@
 - 🥅 2020 Goals: Want to start my professional Career
 - ⚡ Fun fact: I am a Sports Loving Person with many acheivements, Apart from than I can play Ukuele and have great passion for Movie and Music.
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/kd5y5neui5wzn60r7748k4h1n)
-
 ### Connect with me:
 - Email: **afiquezian@gmail.com**
 - LinkedIn: https://www.linkedin.com/in/md-afique-amin-zian-40703515b/
@@ -31,11 +27,9 @@
 - Twitter: https://twitter.com/AfiqueMd
 - Instagram: https://www.instagram.com/afique_zian/
 - Youtube: https://www.youtube.com/channel/UCUkEtz1XPfcYtvoiTrP87aQ?view_as=subscriber
-
 <br />
 
 ### Languages and Tools:
-
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" title="python"></code>
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" title="javascript"></code>
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" title="html5"></code>
@@ -51,7 +45,6 @@
 <code><img height="40" src="https://github.githubassets.com/images/modules/open_graph/github-mark.png" title="github"></code>
 <code><img height="40" src="https://res.cloudinary.com/practicaldev/image/fetch/s--K2q0A5SX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2elgd5zp07wkeilkna63.png" title="heroku"></code>
 <code><img height="40" src="https://i.morioh.com/2020/04/14/cbbb04582c2a.jpg" title="expo client"></code>
-
 <br />
 
 ```python
@@ -63,11 +56,27 @@ def afiquezian():
   return ∞
 ```
 ---
-
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [How to read a dataset and write in a SQL Database: Using MySql And Python](https://inblog.in/How-to-read-a-dataset-and-write-in-a-SQL-Database-Using-MySql-And-Python-SWf9GobjKD)
+
+### GitHub Acknowledgement
+
+<p align="center">
+  <a href = "https://github.com/zianafique">
+<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=zianafique&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
+  </a>
+ </p>
+ 
+### Top Programming Languages
+
+<p align="center">
+<a href = "https://github.com/zianafique">
+  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=zianafique&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
+</a>
+</p>
+
 
 
                                                             **Thanks For Visiting My profile**
