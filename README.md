@@ -30,13 +30,11 @@
 <br />
 
 ### Languages and Tools:
-<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" title="python"></code>
-<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" title="javascript"></code>
-<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" title="html5"></code>
-<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" title="css"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" title="flask"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" title="python"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" title="javascript"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" title="flask"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" title="react native"></code>
-<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb"></code>
+<code><img height="40" src="https://en.wikipedia.org/wiki/MongoDB#/media/File:MongoDB_Logo.svg" title="mongodb"></code>
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" title="node.js"></code>
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" title="mysql"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="git"></code>
@@ -45,6 +43,7 @@
 <code><img height="40" src="https://github.githubassets.com/images/modules/open_graph/github-mark.png" title="github"></code>
 <code><img height="40" src="https://res.cloudinary.com/practicaldev/image/fetch/s--K2q0A5SX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2elgd5zp07wkeilkna63.png" title="heroku"></code>
 <code><img height="40" src="https://i.morioh.com/2020/04/14/cbbb04582c2a.jpg" title="expo client"></code>
+ <code><img height="40" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" title="OpenCv"></code>
 <br />
 
 ```python
@@ -60,23 +59,6 @@ def afiquezian():
 
 <!-- BLOG-POST-LIST:START -->
 - [How to read a dataset and write in a SQL Database: Using MySql And Python](https://inblog.in/How-to-read-a-dataset-and-write-in-a-SQL-Database-Using-MySql-And-Python-SWf9GobjKD)
-
-### GitHub Acknowledgement
-
-<p align="center">
-  <a href = "https://github.com/zianafique">
-<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=zianafique&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
-  </a>
- </p>
- 
-### Top Programming Languages
-
-<p align="center">
-<a href = "https://github.com/zianafique">
-  <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=zianafique&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
-</a>
-</p>
-
 
 
                                                             **Thanks For Visiting My profile**
