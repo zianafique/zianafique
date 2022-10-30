@@ -47,10 +47,7 @@
 <br />
  
  ### Framework:
-<img height="40" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" title="OpenCv"><img height="40" src="https://res.cloudinary.com/practicaldev/image/fetch/s--K2q0A5SX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2elgd5zp07wkeilkna63.png" title="heroku">
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" title="PyTorch"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" title="Keras"></code> 
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+<img height="40" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" title="OpenCv"><img height="40" src="https://res.cloudinary.com/practicaldev/image/fetch/s--K2q0A5SX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2elgd5zp07wkeilkna63.png" title="heroku"> <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" title="PyTorch"> <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" title="Keras"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
 <br />
 
  
