@@ -2,21 +2,21 @@
 
 <p>
   <em>
-    A <b>student</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>Learner</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Bangladesh. 
+    A <b>Machine Learning Engineer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>Learner</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Bangladesh. 
   </em>
  </p>
  <img align="right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 
 <em>
 
-- 🎓 I'm currently pursuing **Bachelors in Computer Science** (Final Year) from **International Islamic University Malaysia, IIUM**.
-- 🌱 I'm currently learning from [Coursera](https://www.coursera.org/),[Kaggle](https://www.kaggle.com/) and [Udemy](https://www.udemy.com/)
-- 💻 I'm looking for an **internship** in **Data Science**, **Data Analytics**, **Data Engineer**, **Computer Science** and **Mobile App Development** domain.
+- 🎓 I've completed my  **Bachelors in Computer Science** (2021r) from **International Islamic University Malaysia, IIUM**. Specialized in Data Science And AI.
+- 🌱 I'm currently working at [Aye Solutions Sd. Bhd.](https://www.ayesolutions-sea.com/), A AI and Computer Vision Based Malaysian Start Up Tech Company
+- 💻 I'm good fit and expert for  **full time** role in **Data Science**, **Data Analytics**, **Data Engineer**, **Computer Vision** field.
 - 🖋️ I'm actively **writing blogs** on [Inblog](https://inblog.in/@afiquezian)
 - 🤝🏻 I'm open for collaborations in **Data Science** and **Machine Learning** and **Mobile APP Development** Domains.
-- 🎯 Goal (2020): **Contribute** openly to **Data Science and Machine Learning community** and **Mobile APP Development**
+- 🎯 Goal (2023): **Contribute** openly to **Data Science and Machine Learning community** and enrich my **Research Capabilities**
 - 📌 Scroll down to see my **Pinned Repositories**.
-- 🥅 2020 Goals: Want to start my professional Career
+- 🥅 2023 Goals: Want to Pursue my Postgraduate Degree in a repurted University. 
 - ⚡ Fun fact: I am a Sports Loving Person with many acheivements, Apart from than I can play Ukuele and have great passion for Movie and Music.
 
 ### Connect with me:
@@ -51,7 +51,7 @@
 def afiquezian():
   skills_with_proficiency = {'Python': 'Advance', 'SQL': 'Intermidiate','HTML & CSS': 'Intermediate','JavaScript' :'Beginner'}
   tools = ['numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 'keras', 'flask', 'tableau']
-  framework=['flask','React Native','Heroku']
+  framework=['flask','React Native','Heroku', 'Tensorflow', 'Keras', 'PyTorch', 'OpenCv']
   active_blogger = True
   return ∞
 ```
