@@ -9,7 +9,7 @@
 
 <em>
 
-- 🎓 I've completed my  **Bachelors in Computer Science** (2021r) from **International Islamic University Malaysia, IIUM**. Specialized in Data Science And AI.
+- 🎓 I've completed my  **Bachelors in Computer Science** (2021) from **International Islamic University Malaysia, IIUM**. Specialized in Data Science And AI.
 - 🌱 I'm currently working at [Aye Solutions Sd. Bhd.](https://www.ayesolutions-sea.com/), A AI and Computer Vision Based Malaysian Start Up Tech Company
 - 💻 I'm good fit and expert for  **full time** role in **Data Science**, **Data Analytics**, **Data Engineer**, **Computer Vision** field.
 - 🖋️ I'm actively **writing blogs** on [Inblog](https://inblog.in/@afiquezian)
