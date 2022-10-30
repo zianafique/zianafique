@@ -29,20 +29,8 @@
 - Youtube: https://www.youtube.com/channel/UCUkEtz1XPfcYtvoiTrP87aQ?view_as=subscriber
 <br />
 
-### Languages and Tools:
-
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" title="python"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" title="javascript"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" title="flask"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" title="react native"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" title="node.js"></code>
-<code><img height="40" src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" title="mysql"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="git"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" title="vscode"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" title="mongodb"></code>
-<code><img height="40" src="https://github.githubassets.com/images/modules/open_graph/github-mark.png" title="github"></code>
-
-<code><img height="40" src="https://i.morioh.com/2020/04/14/cbbb04582c2a.jpg" title="expo client"></code>
+<h3 align="left">Language and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" title="python"> <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" title="javascript"> <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" title="flask"> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" title="react native"> <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" title="node.js"> <img height="40" src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" title="mysql"> <img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="git"> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" title="vscode"> <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" title="mongodb"> <img height="40" src="https://github.githubassets.com/images/modules/open_graph/github-mark.png" title="github">  <img height="40" src="https://i.morioh.com/2020/04/14/cbbb04582c2a.jpg" title="expo client"> </a> </p>
  
 <br />
  
