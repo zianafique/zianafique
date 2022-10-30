@@ -34,9 +34,8 @@
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" title="javascript"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" title="flask"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" title="react native"></code>
-<code><img height="40" src="https://en.wikipedia.org/wiki/MongoDB#/media/File:MongoDB_Logo.svg" title="mongodb"></code>
-<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" title="node.js"></code>
-<code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" title="mysql"></code>
+<code><img height="40" src="https://en.wikipedia.org/wiki/Node.js#/media/File:Node.js_logo.svg" title="node.js"></code>
+<code><img height="40" src="https://en.wikipedia.org/wiki/MySQL#/media/File:MySQL_logo.svg" title="mysql"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="git"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" title="vscode"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" title="mongodb"></code>
