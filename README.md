@@ -2,7 +2,7 @@
 
 <p>
   <em>
-    A <b>Machine Learning Engineer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>Learner</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Bangladesh. 
+    A <b>AI or Machine Learning Engineer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>Learner</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Bangladesh. Currently staying in Sydney, Australia.  
   </em>
  </p>
  <img align="right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
@@ -10,10 +10,10 @@
 <em>
 
 - 🎓 I've completed my  **Bachelors in Computer Science** (2021) from **International Islamic University Malaysia, IIUM**. Specialized in Data Science And AI.
-- 🌱 I'm currently working at [Aye Solutions Sd. Bhd.](https://www.ayesolutions-sea.com/), A AI and Computer Vision Based Malaysian Start Up Tech Company
-- 💻 I'm good fit and expert for  **full time** role in **Data Science**, **Data Analytics**, **Data Engineer**, **Computer Vision** field.
+- 🌱 I have previously worked [Aye Solutions Sd. Bhd.](https://www.ayesolutions-sea.com/), A AI and Computer Vision Based Malaysian Start Up Tech Company for more than 2 years.
+- 💻 I'm good fit and expert for  **full time** role in **Data Science**, **Machine Learning**, **Software Engineer**, **Data Analytics**, **Data Engineer**, **Computer Vision** field.
 - 🖋️ I'm actively **writing blogs** on [Inblog](https://inblog.in/@afiquezian)
-- 🤝🏻 I'm open for collaborations in **Data Science** and **Machine Learning** and **Mobile APP Development** Domains.
+- 🤝🏻 I'm open for collaborations in **Data Science** and **Machine Learning** and **Software Engineer** Domains.
 - 🎯 Goal (2023): **Contribute** openly to **Data Science and Machine Learning community** and enrich my **Research Capabilities**
 - 📌 Scroll down to see my **Pinned Repositories**.
 - 🥅 2023 Goals: Want to Pursue my Postgraduate Degree in a repurted University. 
@@ -21,7 +21,7 @@
 
 ### Connect with me:
 - Email: **afiquezian@gmail.com**
-- LinkedIn: https://www.linkedin.com/in/md-afique-amin-zian-40703515b/
+- LinkedIn: https://www.linkedin.com/in/afiquezian/
 - Kaggle: https://www.kaggle.com/afiquezian
 - Inblog: https://inblog.in/@afiquezian 
 - Twitter: https://twitter.com/AfiqueMd
